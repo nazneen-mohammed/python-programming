@@ -1,0 +1,3 @@
+assignment,high
+reading,low
+cleaning,high
